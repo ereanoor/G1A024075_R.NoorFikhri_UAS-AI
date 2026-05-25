@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Peta tanpa judul</name>
+    <description/>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Lapisan Jurusan</name>
+      <Placemark>
+        <name>Jurusan Teknologi Pertanian</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2716697,-3.7577073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Workshop Fakultas Teknik UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.272005,-3.7570111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perpustakaan Fakultas Hukum Unib</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2684323,-3.7598316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dekanat Fakultas Pertanian UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2692206,-3.7594009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laboratorium Perikanan</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2688156,-3.7583798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gedung A Universitas Bengkulu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2677406,-3.7579994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kantin Hukum UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2684344,-3.7595371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lab Hukum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2686514,-3.760314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dekanat Fakultas Hukum Universitas Bengkulu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2684636,-3.760603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lab Sosek (Sosial Ekonomi Pertanian) / Agribisnis UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2695503,-3.7589328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gedung Administrasi Dan Unit Penjamin Mutu Fakultas Pertanian Universitas Bengkulu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2695047,-3.7591898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lab Ilmu Tanah</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.269968,-3.7592322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Journal of Agri Socio-Economics and Business</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2698365,-3.758994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tempat Parkir</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2718753,-3.7588466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UPT PKM UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2721462,-3.7590473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UPT PKM UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2723125,-3.7590312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unit Pengumpil Zakat UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2724285,-3.7596832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nasi Ayam Geprek Adek Zepa</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2732864,-3.7606855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taman Danau Universitas Bengkulu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2736255,-3.7600342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laboratorium Multimedia Komunikasi dan Jurnalistik FISIP UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2739044,-3.7591488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LABORATORIUM PEMBELAJARAN FKIP UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2757447,-3.7583932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dekanat Fisip UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2742049,-3.7590395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UPA TIK Universitas Bengkulu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2749972,-3.758545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sekretariat PALASOSTIK</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2746152,-3.7589219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parkir LPTIK</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2753289,-3.7582567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dekanat FKIP UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2750523,-3.7575253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GB 2 UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2739399,-3.7580289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MUSHOLA SHELTER UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2735988,-3.7577455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GB 1 UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2737545,-3.7569478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laboratorium Fisika Universitas Bengkulu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2739158,-3.7564233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laboratorium Biologi Dan Kimia Fakultas MIPA Universitas Bengkulu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2733472,-3.7561925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JURUSAN BUDIDAYA PERTANIAN UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2724795,-3.7565641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dekanat FMIPA UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2747531,-3.7560466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gedung Pendidikan Profesi Guru (PPG) UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2760865,-3.7566575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gedung PKM UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2758182,-3.7564709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pascasarjana FKIP Unib</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.276057,-3.7563226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GB 3 dan 4 UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2765559,-3.7562905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gedung Kuliah Bersama 4 UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2764164,-3.7561058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gedung FKIP</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2774774,-3.7563683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DANAU FKIP</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.277973,-3.7561342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadion UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2781576,-3.7576732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laboratorium Terpadu Teknik Universitas Bengkulu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2773602,-3.7585214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jurusan Teknik Elektro UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2773682,-3.7583849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basecamp Pulkanik FT UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2774916,-3.7582831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sekretariat HIMASIF</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2773347,-3.7582122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dekanat Fak.Teknik UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2766875,-3.7584753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Program Studi Informatika Universitas Bengkulu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2766528,-3.7585925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Program Studi Arsitektur Universitas Bengkulu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2769558,-3.7586267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laboratorium Energi Konversi Listrik</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2765146,-3.7586696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gedung I Laboratorium Fakultas Teknik UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2769215,-3.7588994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lab. Konstruksi dan Perancangan Universitas Bengkulu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2768441,-3.7589589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Allbaik Chicken Unib</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2755656,-3.7593351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lab. Teknologi Industri Pertanian (TIP) Unib</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2714471,-3.757622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gedung Unit Layanan Terpadu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2718816,-3.7580823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jurusan Peternakan Fakultas Pertanian Universitas Bengkulu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2724824,-3.7579485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Danau Universitas Bengkulu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2728365,-3.7582857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Kuburan</name>
+      <Placemark>
+        <name>Pemakaman Umum Kel. Beringin Raya</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2708812,-3.7559332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TPU UNIB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.2743919,-3.7586427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

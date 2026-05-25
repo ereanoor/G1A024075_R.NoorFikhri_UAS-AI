@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Shortest Path - Unib</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.css" />
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="top-navbar">
+        <div class="brand-container">
+            <img src="logo-unib.png" alt="Logo Universitas Bengkulu" class="unib-logo">
+            <div class="brand-text">
+                <h1>UNIB Route Navigation System</h1>
+                <p>Kecerdasan Buatan | R. Noor Fikhri (G1A024075)</p>
+            </div>
+        </div>
+    </header>
+
+    <main class="map-container">
+        <div id="map"></div>
+
+        <div class="control-panel">
+            <h3>Rute Terpendek Unib</h3>
+            
+            <label for="startPoint">Titik Asal:</label>
+            <select id="startPoint">
+            </select>
+            
+            <label for="endPoint">Titik Tujuan:</label>
+            <select id="endPoint">
+            </select>
+            
+            <div class="mode-group">
+                <label><input type="radio" name="mode" value="driving" checked> Kendaraan</label>
+                <label><input type="radio" name="mode" value="walking"> Jalan Kaki</label>
+            </div>
+            
+            <button id="routeBtn">Cari Rute Terpendek</button>
+            <button id="resetBtn" class="refresh-btn"> Reset Peta</button>
+            
+            <div id="infoResult" class="info-result">
+                Pilih asal, tujuan, dan mode lalu klik tombol.
+            </div>
+        </div>
+    </main>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.js"></script>
+    <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+    <script src="script.js"></script>
+</body>
+</html>
